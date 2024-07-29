@@ -1,8 +1,5 @@
-<p align="center">
-    <img width="100" src="../Imagem2.png">
-</p>
 
-
+<a href="https://www.dio.me/articles/a-revolucao-na-construcao-de-interfaces-de-usuario" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 
 -------
